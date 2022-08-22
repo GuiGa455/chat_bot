@@ -17,7 +17,7 @@
   },
   { "tag": "life_idiomas",
   "patterns":["life idiomas", "Life Idiomas"],
-  "responses": ["A life idiomas é a escola de linguas parceira da FEI, para se informar sobre valores e disponibilidades de turmas ligue:(11) 95579-1020 ou entre em nosso site:https://lifeidiomas.com.br/"]
+  "responses": ["A life idiomas é a escola de línguas parceira da FEI, para se informar sobre valores e disponibilidades de turmas ligue:(11) 95579-1020 ou entre em nosso site:https://lifeidiomas.com.br/"]
   },
   { "tag": "intercambio",
   "patterns":["Como faço um intercambio, Quero fazer um intercambio"],
